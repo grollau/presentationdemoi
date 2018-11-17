@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Mon site de présentation</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  ...
+ <title>Mon site de présentation</title>
+ <h1>Ma vie en quelques dates</h1>
+ <p>Voici dans ce graphique quelques points cles de ma vie:</p>
+ <ul>
+ 	<li>Naissance orléans</li>
+ 	<li>Ecole college lycée sur orléans</li>>
+ 	<li>Bac S option Si spé Maths</li>
+ 	<li> Premiere année Polytech</li>
+ 	<li>Premiere année Dut GEII</li>
+ 	<li>Dut Carrieres sociales  et obtention deux ans plus tard</li>
+ </ul> <!-- Le reste du contenu -->
+  
+
+
+</body>
+</html>
